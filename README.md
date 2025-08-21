@@ -2,7 +2,7 @@
 
 > **Hand Gesture Recognition + Voice AI + Computer Vision**
 
-A cutting-edge Python AI assistant that combines hand gesture recognition, voice interaction, and computer vision to help you with electronic component identification and board detection.
+A cutting-edge Python AI assistant that combines hand gesture recognition, voice interaction, and computer vision to help you with electronic component identification and board detection. 
 
 ## ✨ Features
 
